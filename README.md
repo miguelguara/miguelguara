@@ -1,6 +1,12 @@
-## Eai tudo beleza? :)
-Atualmente estou trabalhando no meu jogo mobile educativo para meu TCC,
+## Eai tudo beleza?  :)
+-Meu nome é Miguel e moro em Votuporanga,SP;
 
+-Atualmente estou trabalhando no meu jogo mobile educativo para auxiliar na educação de crianças com TEA;
+
+-Gosto muito da area de programação! principalmente GameDev;
+
+-Tenho afinidade com as plataformas .NET(ASP.NET,Windows Forms) e minha GameEngine favorita é a Unity;
+---
 
 <!--
 **miguelguara/miguelguara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
