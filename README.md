@@ -1,4 +1,6 @@
-## Hi there 👋
+## Eai tudo beleza? :)
+Atualmente estou trabalhando no meu jogo mobile educativo para meu TCC,
+
 
 <!--
 **miguelguara/miguelguara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
