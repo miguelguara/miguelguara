@@ -5,8 +5,12 @@
 
 -Gosto muito da area de programação! principalmente GameDev;
 
--Tenho afinidade com as plataformas .NET(ASP.NET,Windows Forms) e minha GameEngine favorita é a Unity;
+-Estou aprofundando meus conhecimentos em desenvolvimento de sites ASP.Net Core!
+
+Tecnologias:
 ---
+.NET(ASP.NET, Windows Forms)
+Unity Game Engine
 
 <!--
 **miguelguara/miguelguara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
