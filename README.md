@@ -8,8 +8,9 @@
 -Estou aprofundando meus conhecimentos em desenvolvimento de sites ASP.Net Core!
 
 Tecnologias:
----
--.NET(ASP.NET, Windows Forms)
+-
+-C#/.NET(ASP.NET, Windows Forms) 
+
 -Unity Game Engine
 
 <!--
